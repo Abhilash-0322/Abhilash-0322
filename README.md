@@ -14,7 +14,8 @@ I'm a passionate for coding projects. I love coding and creating things
 
 -Currently Working With API's and LLM models 
 
-![image](https://github.com/Abhilash-0322/Abhilash-0322/assets/136215541/b499cd7c-7163-49bd-977d-37d1e3a3d637)
+![image](https://github.com/Abhilash-0322/Abhilash-0322/assets/136215541/0b72f2f6-bd00-4b24-b930-4a0371185f15)
+
 
 -Future Plans DSA and Devops
 }
