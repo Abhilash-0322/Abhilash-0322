@@ -9,7 +9,9 @@
 
 - 📫 How to reach me **mauryaabhi2003@gmail.com**
 
-- ⚡ Fun fact **Favorite Emoji: 😄, Hobbies: Trying our diverse cusine and creating things.😇**
+- ⚡ Fun fact ** I am Introvert
+  
+-  Hobbies: Trying our diverse cusine and creating things.😇**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
