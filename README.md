@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **mauryaabhi2003@gmail.com**
 
-- ⚡ Fun fact ** I am Introvert an 🫥
+- ⚡ Fun fact ** I am an Introvert 🫥
   
 -  Hobbies: Trying our diverse cusine and creating things.😇**
 
