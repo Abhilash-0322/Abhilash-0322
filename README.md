@@ -13,6 +13,8 @@
   
 -  Hobbies: Trying our diverse cusine and creating things.😇**
 
+[![An image of @abhilash0322's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/abhilash0322)](https://holopin.io/@abhilash0322)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://auth.geeksforgeeks.org/user/mauryaabqern" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="mauryaabqern" height="30" width="40" /></a>
@@ -29,7 +31,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhilash-0322&show_icons=true&locale=en" alt="abhilash-0322" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhilash-0322&" alt="abhilash-0322" /></p>
-
-[![An image of @abhilash0322's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/abhilash0322)](https://holopin.io/@abhilash0322)
 
 Feel Free To Connect To Me 😇
