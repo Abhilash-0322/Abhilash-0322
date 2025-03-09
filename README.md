@@ -7,9 +7,9 @@
 
 - 💬 Ask me about **frameworks, api's and cloud computing.**
 
-- 📫 How to reach me **abhilash.2327it1120@kiet.edu
+- 📫 How to reach me: abhilash.2327it1120@kiet.edu
 
-- ⚡ Fun fact ** I am an Introvert 🫥
+- ⚡ Fun fact ** I am an Introvert ** 🫥
   
 -  Hobbies: Trying our diverse cusine and creating things.😇
 
