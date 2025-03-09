@@ -7,11 +7,11 @@
 
 - 💬 Ask me about **frameworks, api's and cloud computing.**
 
-- 📫 How to reach me **abhilash.2327it1120@kiet.edu**
+- 📫 How to reach me **abhilash.2327it1120@kiet.edu
 
 - ⚡ Fun fact ** I am an Introvert 🫥
   
--  Hobbies: Trying our diverse cusine and creating things.😇*
+-  Hobbies: Trying our diverse cusine and creating things.😇
 
 
 [![An image of @abhilash0322's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/abhilash0322)](https://holopin.io/@abhilash0322)
