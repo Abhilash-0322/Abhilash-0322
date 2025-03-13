@@ -33,7 +33,9 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhilash-0322&show_icons=true&locale=en" alt="abhilash-0322" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhilash-0322&" alt="abhilash-0322" /></p>
 
+<div style="color:blue">
 [![Leetcode Stats](https://leetcard.jacoblin.cool/Abhilash_Maurya)](https://leetcode.com/Abhilash_Maurya)
+</div>
 
 
 Feel Free To Connect To Me 😇
