@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Web Development And Machine Learning**
 
-- 💬 Ask me about **frameworks, api's and cloud computing.**
+- 💬 Ask me about **Programming, Physics.**
 
 - 📫 How to reach me: abhilash.2327it1120@kiet.edu
 
