@@ -28,7 +28,7 @@
 <img src="https://raw.githubusercontent.com/Abhilash-0322/Abhilash-0322/output/snake.svg" alt="Snake animation" />
 <p align="left">  </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhilash-0322&hide=jupyter%20notebook&show_icons=true&locale=en&layout=compact" alt="abhilash-0322" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhilash-0322&hide=html,jupyter%20notebook&show_icons=true&locale=en&layout=compact" alt="abhilash-0322" /></p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhilash-0322&show_icons=true&locale=en&layout=compact" alt="abhilash-0322" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhilash-0322&show_icons=true&locale=en" alt="abhilash-0322" /></p>
