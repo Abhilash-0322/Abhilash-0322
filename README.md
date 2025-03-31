@@ -18,7 +18,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://auth.geeksforgeeks.org/user/mauryaabqern" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="mauryaabqern" height="30" width="40" /></a>
 <a href="https://discord.gg/https://discord.gg/7D2n3j6qYD" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/7D2n3j6qYD" height="30" width="40" /></a>
 </p>
 
