@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhilash-0322&label=Profile%20views&color=0e75b6&style=flat" alt="abhilash-0322" /> </p>
 
-- 🌱 I’m currently learning **Web Development And Machine Learning**
+- 🌱 I’m currently learning **Cloud And DevOps**
 
 - 💬 Ask me about **Trends, Programming, Gaming, Finance.**
 
