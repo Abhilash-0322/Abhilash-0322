@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abhilash Maurya</h1>
-<h3 align="center">I'm a passionate for Machine Learning projects. I love creating things.</h3>
+<h3 align="center">I'm a passionate for Building projects. I love creating things.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhilash-0322&label=Profile%20views&color=0e75b6&style=flat" alt="abhilash-0322" /> </p>
 
